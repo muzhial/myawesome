@@ -43,6 +43,8 @@
 - [SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone](https://github.com/SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone)
 - [666DZY666/micronet](https://github.com/666DZY666/micronet)
 
+- Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research. [github](https://github.com/IntelLabs/distiller)
+
 ### image retrieval
 
 - [pochih/CBIR](https://github.com/pochih/CBIR) [content-based image retrieval]
